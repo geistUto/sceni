@@ -1,0 +1,15 @@
+[submodule "sceni_service_registry"]
+	path = sceni_service_registry
+	url = https://github.com/Cocktail-Concepts/SceniServiceRegistry.git
+[submodule "sceni_gateway"]
+	path = sceni_gateway
+	url = https://github.com/Cocktail-Concepts/SceniGateway.git
+[submodule "geist_service"]
+	path = geist_service
+	url = https://github.com/Cocktail-Concepts/GeistService.git
+[submodule "article_service"]
+	path = article_service
+	url = https://github.com/Cocktail-Concepts/ArticleService.git
+[submodule "grading_service"]
+	path = grading_service
+	url = https://github.com/Cocktail-Concepts/GradingService.git
