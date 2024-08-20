@@ -13,3 +13,6 @@
 [submodule "grading_service"]
 	path = grading_service
 	url = https://github.com/Cocktail-Concepts/GradingService.git
+[submodule "Absolute_gaze"]
+	path = Absolute_gaze
+	url = https://github.com/geistUto/Absolute_gaze.git
